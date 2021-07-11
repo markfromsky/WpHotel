@@ -1,0 +1,118 @@
+/*
+Theme Name: Restraunt theme
+Author: Artur
+Author URI: https://mail.google.com/mail/u/0/#inbox/FMfcgxvzMBsbnXDfNxmGwqdMZmVWHMxK
+Description: The restraunt theme for final task
+Version:1
+*/
+*{
+	margin:0;
+	padding:0;
+}
+header{
+	background-image:url('header.jpg');
+	height:100px;
+}
+header a,h1,h5{
+	color:rgb(32,32,32);
+	text-align:center;
+	font-size:40px;
+}
+.ml-slider-3-10-3{
+	margin-left:400px;
+}
+.title{
+	text-align:center;
+	margin-top:50px;
+}
+.mainpagearticle p,h1{
+	font-size:20px;
+	text-align:center;
+}
+.ml-slider-3-10-3 img{
+	width:1000px;
+	height:400px;
+	
+}
+.ml-slider-3-10-3 div{
+	width:1000px;
+	height:400px;
+	margin-top:30px;
+	
+}
+body{
+	background-image:url('body.jpg');
+}
+.nav li{
+	display:inline-block;
+	margin-right:0px;
+	margin-left:0px;
+	padding:11px;
+	border:1px solid black;
+	border-top:0px;
+	border-bottom:0px;
+}
+.menu-top-menu-container{
+	height:40px;
+}
+.content h2{
+	text-align:center;
+}
+.photos, .photo, .texts{
+	height:600px;
+	width:1500px;
+}
+.inline{
+	display:inline;
+}
+.firstimg{
+	position:relative;
+	bottom:222px;
+}
+.secondimg{
+	position:relative;
+	bottom:39px;
+	right:330px;
+}
+.photo{
+	display:inline-block;
+	width:1200px;
+}
+.texts{
+	width:250px;
+	float:right;
+}
+.texts p{
+	font-size:25px;
+}
+.contact{
+	width:1500px;
+	height:500px;
+}
+.phones{
+	float:left;
+	width:150px;
+	height:500px;
+}
+.contact-form{
+	height:500px;
+	width:400px;
+	float:right;
+}
+.map{
+	display:inline-block;
+	width:850px;
+	height:500px;
+}
+.archive_h2{
+	text-align:center;
+}
+.archive p{
+	text-align:center;
+}
+.size-new-image{
+	padding-left:660px;
+}
+.size-image-single{
+	padding-left:660px;
+}
